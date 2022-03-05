@@ -18,7 +18,7 @@ hm.. increase Z motor amps to 0.5A-0.55A solve this but at the cost of grinding 
 ![Picture](pictures/POM_spring_variations.jpg)
 ![Picture](pictures/POM_with_replacement_spring.jpg)
 
-Do not use brass nuts on ptfe coated LDO kits leadscrew, it grinds the leadcrew down.
+Do not use brass nuts on ptfe coated LDO kits leadscrew, it grinds the leadscrew down.
 
 **TODO**
 upload CAD File
