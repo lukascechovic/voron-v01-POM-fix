@@ -1,6 +1,6 @@
 # voron-v01-POM-fix
-**Issue: Z motor is binding/skipping at default 0.37A current with empty bed, with properly aligned parts (Z leadscrewand  POM nut T8_Nut_Block plastic part)**
-[Video](https://youtu.be/tI24zk7298Q )
+**Issue: Z motor is binding/skipping at default 0.37A current with empty bed, with properly aligned parts (Z leadscrew and  POM nut T8_Nut_Block plastic part)**
+[Youtube Video](https://youtu.be/tI24zk7298Q )
 
 Originally used for LDO v0.1 kit rev C Anti Backlash Nut, POM, Tr8X8, fix if you got Z binding-skipping on default Z motor current 0.37A, with good Z axis alignment
 
