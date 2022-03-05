@@ -1,4 +1,4 @@
 0.4mm nozzle
 0.1mm layer heigth
 brimm on
-supports on (snug in prusaslicer)
+supports on
