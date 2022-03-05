@@ -1,10 +1,10 @@
 # voron-v01-POM-fix
-Originally used for LDO v0.1 kit rev C Anti Backlash Nut, POM, Tr8X8, fix if you got Z binding-skipping on default Z motor current 0.37A, with good Z axis alignment
-
 **Issue: Z motor is binding/skipping at default 0.37A current with empty bed, with properly aligned parts (Z leadscrewand  POM nut T8_Nut_Block plastic part)**
 [Video](https://youtu.be/tI24zk7298Q )
 
-hm.. increase Z motor amps to 0.5A-0.55A solve this but at the cost of grinding plastic POM down and potentialy harm other parts of printer (head) as you really dont wanna super strong Z power (imagine Z endstop wont trigger)
+Originally used for LDO v0.1 kit rev C Anti Backlash Nut, POM, Tr8X8, fix if you got Z binding-skipping on default Z motor current 0.37A, with good Z axis alignment
+
+hm.. increase in Z motor amps to 0.5A-0.55A solve this but at the cost of grinding plastic POM down and potentialy harm other parts of printer (head) as you really dont wanna super strong Z power (imagine Z endstop wont trigger)
 
 **Suspected reason of this happening - spring on POM nut has thick wire, is short, with few "rings" which creating uneven pressure on POM nuts edge, it is creating shear force locking nuts into leadscrew, it kills tolerance you need for other small missalignments which always occurs as there is NO way to have Z pefrectly squared**
 
