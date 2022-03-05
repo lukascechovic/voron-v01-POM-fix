@@ -13,7 +13,7 @@ hm.. increase in Z motor amps to 0.5A-0.55A solve this but at the cost of grindi
 ![Picture](pictures/spacer_model.jpg)
 ![Picture](pictures/POM_with_spacer.jpg) 
 
-**Solution2 - spring replacement, use psring with thinner wire and more rings**
+**Solution2 - spring replacement, use spring with thinner wire and more rings**
 
 ![Picture](pictures/POM_spring_variations.jpg)
 ![Picture](pictures/POM_with_replacement_spring.jpg)
