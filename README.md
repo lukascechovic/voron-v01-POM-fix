@@ -29,7 +29,7 @@ It took me 4 whole days to solve this after two complete dissasemblies of printe
 **My best practice of aligning Z**
 1. fix Z motor, bear in mind that you should trigger Z endstop with screw in T8_Nut_Block plastic part, for me it was more on rigth side from front view, POM nut is already on leadscrew
 2. fix POM nut in T8_Nut_Block plastic part, while T8_Nut_Block itself is still losen on alu Z profile
-3. bring bed down (rotate leadscrew), align T8_Nut_Block plastic part with leadscrew and tighten it (if you have backplate on there are drilled two holes for wrench)
+3. bring bed down (rotate leadscrew), align T8_Nut_Block plastic part with leadscrew and tighten it (if you have backplate on, there are drilled two holes for wrench)
 4. if you are lucky its working if not losen T8_Nut_Block plastic part and find better position.
 
 **note 1**
