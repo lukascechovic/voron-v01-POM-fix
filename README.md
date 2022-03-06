@@ -9,7 +9,7 @@ hm.. increase in Z motor amps to 0.5A-0.55A solve this but at the cost of grindi
 **My best practice of aligning Z - before we hop into more unpleasant stuff**
 1. fix Z motor (tighten all 4 screws) , bear in mind that you should trigger Z endstop with screw in T8_Nut_Block plastic part, for me it was more on rigth side from front view, POM nut is already on leadscrew
 2. fix POM nut in T8_Nut_Block plastic part (tighten 2 screws), while T8_Nut_Block itself is still losen on alu Z profile
-3. bring bed down (rotate leadscrew), align T8_Nut_Block plastic part with leadscrew and tighten it (if you have backplate on, there are drilled two holes for wrench)
+3. bring bed down (rotate leadscrew by hand), align T8_Nut_Block plastic part with leadscrew and tighten it (if you have backplate on, there are drilled two holes for wrench)
 4. if you are lucky its working if not losen T8_Nut_Block plastic part and find better position.
 
 **Suspected reason of this happening - spring on POM nut has thick wire, is short, with few "rings" which creating uneven pressure on POM nuts edge, it is creating shear force locking nuts into leadscrew, it kills tolerance you need for other small missalignments which always occurs as there is NO way to have Z pefrectly squared**
