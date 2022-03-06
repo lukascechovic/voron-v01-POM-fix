@@ -6,7 +6,7 @@ Originally used for LDO v0.1 kit rev C Anti Backlash Nut, POM, Tr8X8, if you got
 
 hm.. increase in Z motor amps to 0.5A-0.55A solve this but at the cost of grinding plastic POM down and potentialy harm other parts of printer (head) as you really dont wanna super strong Z power (imagine Z endstop wont trigger)
 
-**My best practice of aligning Z - before we hop into more unpleasant stuff :-) **
+**My best practice of aligning Z - before we hop into more unpleasant stuff **
 1. fix Z motor, bear in mind that you should trigger Z endstop with screw in T8_Nut_Block plastic part, for me it was more on rigth side from front view, POM nut is already on leadscrew
 2. fix POM nut in T8_Nut_Block plastic part, while T8_Nut_Block itself is still losen on alu Z profile
 3. bring bed down (rotate leadscrew), align T8_Nut_Block plastic part with leadscrew and tighten it (if you have backplate on, there are drilled two holes for wrench)
