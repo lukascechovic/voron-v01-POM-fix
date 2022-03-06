@@ -13,7 +13,7 @@ hm.. increase in Z motor amps to 0.5A-0.55A solve this but at the cost of grindi
 4. if you are lucky its working if not losen T8_Nut_Block plastic part and find better position.
 5. if you are not able to find position without binding and you believe that you are doing everything rigth read next
 
-**Suspected reason of this happening - spring on POM nut has thick wire, is short, with few "rings" which creating uneven pressure on POM nuts edge, this could create shear force locking nuts into leadscrew, it kills tolerance you need for other small missalignments which always occurs as there is NO way to have Z pefrectly squared**
+**WHY this happenign to me?? - spring on POM nut has thick wire, is short, with few "rings" which creating uneven pressure on POM nuts edge, this could create shear force locking nuts into leadscrew, it kills tolerance you need for other small missalignments which always occurs as there is NO way to have Z pefrectly squared**
 
 **Solution1 - relieve spring tention with 3D printed spacer**
 
