@@ -42,6 +42,3 @@ I even tried to compensate T8_Nut_Block plastic part with bed drop... its 0.3 de
 
 one of two teardowns
 ![Picture](pictures/teardown.jpg )
-
-**TODO**
-upload CAD File
