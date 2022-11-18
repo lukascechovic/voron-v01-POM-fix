@@ -29,7 +29,7 @@ Do not use brass nuts on ptfe coated LDO kits leadscrew, it grinds the leadscrew
 
 **Solution3 - not use spring spring at all**
 ![Picture](pictures/without_spring.jpg)
-BTW this is solution I ended with. It's hassle free solution. I just turned off Z-hops on travel moves to feel safer.
+BTW this is solution I ended with. It's hassle free solution. I just turned off Z-hops on travel moves to feel safer. I do not experience any problems with Z compare to my Voron v0.1 with spring.
 
 **Conclusion**
 With replacement spring or printed spacer or exclude spring and top part of nut from build its possible for example to move 180g cup up and down on default 0.37A on Z without skipping steps or binding.
