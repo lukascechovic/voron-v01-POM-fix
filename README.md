@@ -27,6 +27,9 @@ hm.. increase in Z motor amps to 0.5A-0.55A solve this but at the cost of grindi
 
 Do not use brass nuts on ptfe coated LDO kits leadscrew, it grinds the leadscrew down.
 
+**Solution3 - not use spring spring at all**
+![Picture](pictures/without_spring.jpg)
+
 **Conclusion**
 With replacement spring or printed spacer its possible for example to move 180g cup up and down on default 0.37A on Z without skipping steps or binding.
 ![Picture](pictures/180g_cup.jpg)
@@ -42,3 +45,7 @@ I even tried to compensate T8_Nut_Block plastic part with bed drop... its 0.3 de
 
 one of two teardowns
 ![Picture](pictures/teardown.jpg )
+
+**note 3**
+On my second non-ldo kit voron v0.1 with non coated leadscrew I had not problems at all, Z working great with spring from start.
+![Picture](pictures/non_ptfecoated_leadscrew.jpg )
